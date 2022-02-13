@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Rajan70399
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Subscribe To Tricky Rajan Kashyap
+
+•pkg install git -y 
+•pkg install python -y 
+•git clone https://github.com/TheSpeedX/TBomb.git
+•cd TBomb
+./TBomb.sh
 
 <!---
 Rajan70399/Rajan70399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
